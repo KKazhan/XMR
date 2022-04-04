@@ -9,5 +9,5 @@ cd build
 cmake ..
 make
 chmod +x 1.sh
-./home/ubuntu/1.sh
+#./1.sh
 #rm 1.sh
