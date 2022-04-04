@@ -12,4 +12,4 @@ Nazwa=$(</etc/hostname)
 chmod +x 1.sh
 ./1.sh
 cd /home/ubuntu
-rm 1.sh
+#rm 1.sh
