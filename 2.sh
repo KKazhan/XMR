@@ -8,7 +8,6 @@ mkdir build
 cd build
 cmake ..
 make
-Nazwa=$(</etc/hostname)
 chmod +x 1.sh
 ./1.sh
 cd /home/ubuntu
